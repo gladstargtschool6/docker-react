@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Text changed on the `feature/new-text-message` branch
           </a>
         </header>
       </div>
